@@ -24,7 +24,7 @@ st.sidebar.image("assets/bertbek.png", use_container_width =True)
 # Footer links with proper icon sizes
 st.sidebar.markdown("---")
 st.sidebar.markdown("<small>📌 Barcha til modellari quyidagi HuggingFace sahifada mavjud: <a href=\"https://huggingface.co/elmurod1202\" target=\"_blank\"><img src=\"https://huggingface.co/front/assets/huggingface_logo-noborder.svg\" style=\"width:18px; vertical-align:middle; margin-right:6px;\"> Hugging Face</a></small>", unsafe_allow_html=True)
-st.sidebar.markdown("<small>📌 Ushbu dasturiy vosita kodi ochiq va quyidagi GitHub sahifada joylashgan: <a href='https://github.com/elmurod1202' target='_blank'><img src=\"https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png\" style=\"width:22px; vertical-align:middle; margin-right:6px;\">GitHub</a></small>", unsafe_allow_html=True)
+st.sidebar.markdown("<small>📌 Ushbu dasturiy vosita kodi ochiq va quyidagi GitHub sahifada joylashgan: <a href='https://github.com/elmurod1202/bertbek_web' target='_blank'><img src=\"https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png\" style=\"width:22px; vertical-align:middle; margin-right:6px;\">GitHub</a></small>", unsafe_allow_html=True)
 
 
 
