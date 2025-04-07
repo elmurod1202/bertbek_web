@@ -1,4 +1,4 @@
-# 🇺🇿 BERTbek: Transformer-Based NLP Tools for Uzbek
+# BERTbek: Transformer-Based NLP Tools for the Uzbek Language
 ![BERTbek](assets/homescreen.png)
 
 A Streamlit web application demonstrating fine-tuned transformer models for **Uzbek language understanding tasks**, powered by `BERTbek`, a transformer-based language model developed for Uzbek.
